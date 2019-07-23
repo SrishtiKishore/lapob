@@ -1,2 +1,2 @@
 # lapob
-be patient
+readme
