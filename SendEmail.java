@@ -27,7 +27,7 @@ class Authenticat extends Authenticator
 	//  object of PasswordAuthentication using
 	// sender email-id and password
 	PasswordAuthentication pa = new PasswordAuthentication
-			("srishtiydv@gmail.com", "nandkishore");
+			("s@gmail.com", "xyz");
 	
 	// return this object
 	return pa;
