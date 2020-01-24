@@ -20,7 +20,7 @@ text-decoration:none;
 </head>
 <body> 
 
-<div class="nav" style="color:white; background-color:lightseagreen; text-align: right;height:60px;" >
+<div class="nav" style="color:white; background-color:lightseagreen; text-align: right;height:60px;">
   <br>
   <a href="index.jsp" >HOME</a>&nbsp;
   <%if(session.getAttribute("uid")!=null){ %>
